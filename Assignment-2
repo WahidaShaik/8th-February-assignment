@@ -1,0 +1,13 @@
+#convert kilometres into centimetres
+KM=float(input("Enter KM:"))
+CM=(KM*100000)
+print(CM)
+
+Output:
+Enter KM:
+5
+500000.0
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
